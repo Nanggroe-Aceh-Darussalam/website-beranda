@@ -1,0 +1,162 @@
+.slash {
+    color: white;
+    background-color: #000B58;
+	border-radius: 16px;
+	border: 2px solid #A1E3F9;
+	box-shadow: 2px 2px 20px blue;
+	font-size: 56px;
+}
+
+.slash2 {
+    color: white;
+    background-color: #003161;
+    border-radius: 16px;
+    margin: 50px;
+	border: 2px solid #A1E3F9;
+	box-shadow: 2px 2px 20px blue;
+	font-size: 46px;
+}
+
+.slash3 {
+    color: white;
+    background-color: #FFF4B7;
+	width: 800px;
+	border-radius: 16px;
+	border: 2px solid #A1E3F9;
+	box-shadow: 2px 2px 20px blue;
+	font-size: 36px;
+	margin: 50px;
+}
+
+.slashend {
+    color: white;
+    background-color: #003161;
+    border-radius: 16px;
+	border: 2px solid #A1E3F9;
+	box-shadow: 2px 2px 20px blue;
+	font-size: 46px;
+}
+
+body {
+	background-color: #006A67;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: no-fixed;
+}
+
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card2 {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 26px;
+    width: auto;
+    transition: all 2s ease-in-out;
+    overflow: hidden; /* Prevent overflow of content */
+	color: black;
+	border: 4px solid #006A67;
+	box-shadow: 2px 2px 20px green;
+}
+
+.card-content2 {
+    padding: 20px;
+}
+
+.link {
+    background-color: white;
+    color: black;
+    width: 600px;
+    height: auto;
+    border: 5px solid green;
+    border-radius: 16px;
+}
+
+.picture {
+	background-color: white;
+	background-size: cover;
+	
+}
+
+/* Card Picture */
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+	
+.card1 {
+    background-color: #FFF4B7;
+    border-radius: 10px;
+    margin: 26px;
+    width: 250px;
+    transition: all 2s ease-in-out;
+    overflow: hidden; /* Prevent overflow of content */
+	color: black;
+	border: 2px solid #A1E3F9;
+	box-shadow: 2px 2px 20px blue;
+}
+
+.card-content {
+    padding: 20px;
+}
+	
+.student-image {
+    width: 100%;
+    border-radius: 5px;
+}
+
+/* Slide 2 */
+
+.atas {
+	background-image: url('bg2.jpeg');
+	-webkit-text-stroke: 1px white;
+	color: green;
+	border-radius: 16px;
+	border: 2px solid #006A67;
+	box-shadow: 2px 2px 20px green;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+	
+.card-content {
+    padding: 20px;
+}
+	
+.image {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.link {
+    background-color: white;
+    color: black;
+    width: 250px;
+    height: auto;
+    border: 5px solid green;
+    border-radius: 16px;
+}
+
+.link2 {
+    background-color: white;
+    color: black;
+    width: 350px;
+    height: auto;
+    border: 5px solid green;
+    border-radius: 16px;
+    font-size: 200%;
+}
+
+.name {
+	background-color: yellow;
+	border-radius: 16px;
+	border: 2px solid black;
+}
