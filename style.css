@@ -1,0 +1,75 @@
+.slash {
+    color: white;
+    background-color: #205D67;
+	border-radius: 16px;
+	border: 2px solid #D8EBB5;
+	box-shadow: 2px 2px 20px #639A67;
+	font-size: 56px;
+	-webkit-text-stroke: 3px black;
+}
+
+.slash2 {
+    background-color: #205D67;
+	border-radius: 16px;
+	border: 2px solid #D8EBB5;
+	box-shadow: 2px 2px 20px #639A67;
+	margin: 16px;
+}
+
+.slash2 a {
+    margin: 16px;
+    color: black;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+body {
+	background-image: url('bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: no-fixed;
+}
+
+/* Card Picture */
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+	
+.card1 {
+    background-color: #FFF4B7;
+    border-radius: 10px;
+    margin: 26px;
+    width: 250px;
+    overflow: hidden; /* Prevent overflow of content */
+	color: black;
+	border: 2px solid #0084ff;
+	box-shadow: 2px 2px 20px rgb(0, 255, 179);
+}
+
+.card-content {
+    padding: 20px;
+}
+	
+.student-image {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.container p {
+    font-weight: bold;
+}
+
+.container center {
+    background-color: yellow;
+    border-radius: 16px;
+    border: 2px solid black;
+}
+
+footer {
+    background-color: white;
+    padding: 1px;
+    font-size: 26px;
+}
